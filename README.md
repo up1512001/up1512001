@@ -11,13 +11,12 @@
 - Like to work with JS,HTML,CSS 
 - Like DSA and C++ Stuff
 - Natural Language Processing and Machine Learning
-- Geopolitics (Looking at Global Events)
 
 ## 📅 Hobbies
 - Solve programming problems at LeetCode
 - Play Video Games and Watching Web Series  
 - Read About Ancient Culture
-- etc...
+- Geopolitics (Looking at Global Events)
 
 ## 💻 Collage Project
 - [GymFit](https://github.com/up1512001/GymFit)
