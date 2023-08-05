@@ -32,7 +32,7 @@
 ## 🎵 Spotify status
 
 <a href="https://open.spotify.com/playlist/03QoJCxdJn0XhEK17Yx89j">
-Click Me To Know  
+Click Here To Know Me 
 </a>
 
 
