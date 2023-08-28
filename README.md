@@ -10,7 +10,7 @@
 - Like DSA and C++ Stuff
 - Natural Language Processing and Machine Learning
 
-## 📅 Hobbies
+## Hobbies
 - Solve programming problems at LeetCode
 - Play Video Games and Watching Web Series  
 - Read About Ancient Culture
