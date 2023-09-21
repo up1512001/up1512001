@@ -11,7 +11,6 @@
 - Natural Language Processing and Machine Learning
 
 ## ⚽ Hobbies
-- Solve programming problems at LeetCode
 - Play Video Games and Watching Web Series  
 - Read About Ancient Culture
 - Geopolitics (Looking at Global Events)
