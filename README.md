@@ -27,10 +27,13 @@
 ## Personal Blog
 -[CS Knowledge](https://csblogcontent.wordpress.com/)
 
-## 🎵 Spotify status
 
-<a href="https://open.spotify.com/playlist/03QoJCxdJn0XhEK17Yx89j">
-Click Here To Know Me 
-</a>
+## 🎵 Spotify Track currently listening.
+  
 
+<br/>  
+
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=uka1h9qj8xlpgm7st96podseu&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
+
+<br/>  
 
