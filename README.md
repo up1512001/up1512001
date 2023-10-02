@@ -27,6 +27,9 @@
 ## Personal Blog
 -[CS Knowledge](https://csblogcontent.wordpress.com/)
 
+## Github Stats
+![Utsav's GitHub stats](https://github-readme-stats.vercel.app/api?username=up1512001&show_icons=true&theme=radical)
+
 
 ## 🎵 Spotify Track currently listening.
   
