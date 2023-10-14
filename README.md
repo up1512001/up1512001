@@ -31,7 +31,4 @@
 ![Utsav's GitHub stats](https://github-readme-stats.vercel.app/api?username=up1512001&show_icons=true&theme=radical)
 
 
-## 🎵 Spotify Track currently listening.
-  
-<br/>  [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=uka1h9qj8xlpgm7st96podseu&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://spotify-github-profile.vercel.app/api/view?uid=uka1h9qj8xlpgm7st96podseu&redirect=true)
-<br/>  
+
