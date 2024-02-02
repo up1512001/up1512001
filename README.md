@@ -31,7 +31,7 @@
   
 [![Utsav's GitHub stats](https://github-readme-stats.vercel.app/api?username=up1512001&show_icons=true&theme=radical)](https://github.com/black1512/docker-repos/pkgs/container/docker-repos)
 </div> <br>
-<div align="center" > <a href="https://github.com/marketplace/actions/label-new-pull-requests-by-firework-production-private-ltd"><img src="https://github-profile-trophy.vercel.app/?username=up1512001&row=3&column=3&theme=onedark" alt="Utsav stats" /></a> </p>
+<div align="center" > <a href="https://github.com/marketplace/actions/label-new-pull-requests-by-firework-production-private-ltd"><img src="https://github-profile-trophy.vercel.app/?username=up1512001" alt="Utsav stats" /></a> </p>
 
 <div align="center">
   
