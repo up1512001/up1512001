@@ -27,7 +27,8 @@
 ## Personal Blog
 - [CS Knowledge](https://csblogcontent.wordpress.com/)
 
-
+## Github Stats
+<br/>
 <div align="center" > <a href="https://github.com/marketplace/actions/label-new-pull-requests-by-firework-production-private-ltd"><img src="https://github-profile-trophy.vercel.app/?username=up1512001&row=3&column=3&theme=onedark" alt="Utsav stats" /></a> </div> <br/> <br/>
 <div align="center">
   
@@ -37,5 +38,4 @@
   
   [![GitHub Streak](https://streak-stats.demolab.com?user=up1512001&theme=radical)](https://github.com/black1512/npm-package-registery/pkgs/npm/npm-package-registery)
   
-</div> <br>
-
+</div>
