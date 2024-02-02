@@ -27,8 +27,10 @@
 ## Personal Blog
 -[CS Knowledge](https://csblogcontent.wordpress.com/)
 
-## Github Stats
+
 ![Utsav's GitHub stats](https://github-readme-stats.vercel.app/api?username=up1512001&show_icons=true&theme=radical)
+
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=up1512001" alt="Utsav stats" /></a> </p>
 
 
 
