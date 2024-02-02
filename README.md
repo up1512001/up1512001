@@ -29,14 +29,13 @@
 
 <div align="center">
   
-[![Utsav's GitHub stats](https://github-readme-stats.vercel.app/api?username=up1512001&show_icons=true&theme=radical)]([https://](https://github.com/black1512/docker-repos/pkgs/container/docker-repos))
-
+[![Utsav's GitHub stats](https://github-readme-stats.vercel.app/api?username=up1512001&show_icons=true&theme=radical)](https://github.com/black1512/docker-repos/pkgs/container/docker-repos)
 </div> <br>
 <p align="center"> <a href="https://github.com/up1512001"><img src="https://github-profile-trophy.vercel.app/?username=up1512001" alt="Utsav stats" /></a> </p>
 
 <div align="center">
   
-  [![GitHub Streak](https://streak-stats.demolab.com?user=up1512001&theme=radical)]([https://git.io/streak-stats](https://github.com/black1512/npm-package-registery/pkgs/npm/npm-package-registery)https://github.com/black1512/npm-package-registery/pkgs/npm/npm-package-registery)
+  [![GitHub Streak](https://streak-stats.demolab.com?user=up1512001&theme=radical)](https://github.com/black1512/npm-package-registery/pkgs/npm/npm-package-registery)
   
 </div> <br>
 
