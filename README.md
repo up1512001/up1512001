@@ -1,7 +1,11 @@
 <h1 align="center">Hi 👋, I'm Utsav</h1>
 <!-- <h3 align="center">Seeking Freshers Role</h3> -->
 
-![](https://komarev.com/ghpvc/?username=up1512001&label=PROFILE+VIEWS&color=orange)
+<p align="center"> 
+  Visitors count<br>
+  <img src="https://profile-counter.glitch.me/up1512001/count.svg" />
+</p>
+
 
 ## 💬 Ask me about
 - Backend web development (Node.js, PHP)
