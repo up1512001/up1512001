@@ -43,3 +43,9 @@
   [![GitHub Streak](https://streak-stats.demolab.com?user=up1512001&theme=radical)](https://github.com/FireWork-Production-Private-Ltd/npm-package-registery/pkgs/npm/npm-package-registery)
   
 </div>
+
+<p align = "center">
+  
+[![Utsav's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=up1512001&bg_color=000000&color=fa7900&line=fb8c1d&point=fb3b02&area=true&hide_border=true)](https://github.com/up1512001)
+  
+</p>
