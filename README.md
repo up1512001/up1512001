@@ -29,7 +29,7 @@
 - JavaScript Advance Stuff
 
 ## Personal Blog
-- [CS Knowledge](https://csblogcontent.wordpress.com/)
+- [https://up1512001.com](https://up1512001.com)
 
 ## Github Stats
 <br/>
